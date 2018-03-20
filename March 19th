@@ -1,6 +1,7 @@
 •	Bagging is a special case of random forests under which case?
     When the subset of the predictors is the total number of predictors. 
-
+    Bagging is a special case of random forest with m = p (total number of predictors)
+    
 •	What are the hyperparameters we can control for random forests?
     The depth of the tree, how many subsets we create and how many predictors we devise in each subset
 
